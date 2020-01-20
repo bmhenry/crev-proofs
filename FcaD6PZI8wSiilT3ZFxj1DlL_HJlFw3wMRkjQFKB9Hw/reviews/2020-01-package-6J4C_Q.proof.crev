@@ -1,0 +1,27 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-01-20T00:22:54.594714581-05:00"
+from:
+  id-type: crev
+  id: FcaD6PZI8wSiilT3ZFxj1DlL_HJlFw3wMRkjQFKB9Hw
+  url: "https://github.com/bmhenry/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: slog
+  version: 2.5.2
+  revision: f4ada8ef4992f0ba3ff139d883319453bac8d70d
+  digest: 88LIYaExFIDNNuGRGGbfcs_NQJ-yRxFrj_79H5V-Z7g
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: strong
+alternatives:
+  - source: "https://crates.io"
+    name: log
+comment: |-
+  No unsafe, no advisories. Thread safe & clean code.
+----- SIGN CREV PROOF -----
+YnZpNH-UtFbvqCOaCdw53P-hMMwO0fppppxYAUyEcLhmVdaC7KgCm5pfpyMj1wVlM8c62DybgzqY345oKpAlCQ
+----- END CREV PROOF -----
+
