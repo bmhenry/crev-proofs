@@ -1,0 +1,19 @@
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-01-20T22:07:25.530097288-05:00"
+from:
+  id-type: crev
+  id: FcaD6PZI8wSiilT3ZFxj1DlL_HJlFw3wMRkjQFKB9Hw
+  url: "https://github.com/bmhenry/crev-proofs"
+ids:
+  - id-type: crev
+    id: FYlr8YoYGVvDwHQxqEIs89reKKDy-oWisoO0qXXEfHE
+    url: "https://github.com/dpc/crev-proofs"
+trust: medium
+comment: |-
+  This is the guy that made crev. Probably pretty good reviewer, but I dont know about the people he has added to his trusts
+----- SIGN CREV PROOF -----
+NW68YldyyD8qu75xEYFkdWLI3FbPOSUHONMRhWbxwxnYdDO6UOr2MHY3Iz2JTefGKBHntd2iGRvu0uP29pYaBQ
+----- END CREV PROOF -----
+
